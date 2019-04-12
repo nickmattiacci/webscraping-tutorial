@@ -15,6 +15,11 @@
 * JSON
     * response format from APIs
     * know how to traverse through JSON
+* Terminal / Command Prompt
+    * where you will be running your scripts
+    * most important thing to know is how to change directory (you will need to navigate to the folder your script is in)
+    * For example, if your script is in ABC folder on your desktop you would type: 'cd Desktop/ABC/'
+    * Know the commands for node or python (node {filename}, python3 {filename})
 
 ## Resources:
 * Chrome Developer Tools
