@@ -15,7 +15,7 @@
 * Download and unzip this repository (the rest will assume you move the folder to your desktop)
 * Open terminal
 ```
-cd Desktop/webscraping-tutorial/nodej/node-example
+cd Desktop/webscraping-tutorial/nodejs/node-example
 ```
 * Hit enter
 ```
