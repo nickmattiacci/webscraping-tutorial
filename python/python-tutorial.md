@@ -10,19 +10,23 @@
 * [Pandas](https://pandas.pydata.org/)
 
 ## How to run example
-* Download nodejs
+* Download python3
 * Download and unzip this repository (the rest will assume you move the folder to your desktop)
 * Open terminal
 ```
-cd Desktop/webscraping-tutorial/nodej/node-example
+cd Desktop/webscraping-tutorial/python
 ```
 * Hit enter
 ```
-npm install
+pip3 install requests
 ```
 * Hit enter
 ```
-node index.js
+pip3 install beautfulsoup4
+```
+* Hit enter
+```
+python3 main.py
 ```
 * Hit enter
 
