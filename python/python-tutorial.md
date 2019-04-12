@@ -1,3 +1,15 @@
+# Python
+[Python](https://www.python.org/download/releases/3.0/)
+
+## Libraries
+#### HTTP Requests
+* [Requests](http://docs.python-requests.org/en/master/)
+#### HTML Parser
+* [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+#### Data
+* [Pandas](https://pandas.pydata.org/)
+
+## Walk through
 Return the HTML of a website:
 ```python
 import requests # import library for sending HTTP requests
