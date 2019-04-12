@@ -10,6 +10,23 @@
 #### Data
 * [Exceljs](https://github.com/exceljs/exceljs)
 
+## How to run example
+* Download nodejs
+* Download and unzip this repository (the rest will assume you move the folder to your desktop)
+* Open terminal
+```
+cd Desktop/webscraping-tutorial/nodej/node-example
+```
+* Hit enter
+```
+npm install
+```
+* Hit enter
+```
+node index.js
+```
+* Hit enter
+
 ## Walk Through
 Return the HTML of a website:
 ```javascript
